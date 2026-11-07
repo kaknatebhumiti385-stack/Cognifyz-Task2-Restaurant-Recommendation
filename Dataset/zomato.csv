@@ -1,0 +1,1001 @@
+Restaurant ID,City,Cuisines,Votes,Average Cost for two,Price range,Has Online delivery,Has Table booking,Aggregate rating
+100001,New Delhi,Desserts,2195,1500,3,No,No,2.7
+100002,Chennai,Continental,156,1200,2,Yes,No,2.4
+100003,Hyderabad,Cafe,994,2500,4,No,Yes,4.2
+100004,Bengaluru,Desserts,1146,2500,4,No,No,4.5
+100005,Bengaluru,Chinese,1994,1200,2,Yes,Yes,2.9
+100006,Kolkata,Street Food,323,600,1,No,No,2.1
+100007,New Delhi,Desserts,1085,1000,2,Yes,No,2.0
+100008,Hyderabad,Cafe,381,600,1,Yes,Yes,2.7
+100009,Noida,Continental,1969,1000,2,Yes,Yes,2.9
+100010,New Delhi,Cafe,1581,1500,3,No,No,2.8
+100011,Pune,South Indian,1242,600,1,Yes,No,2.8
+100012,Jaipur,Continental,982,800,2,Yes,No,3.1
+100013,Chennai,South Indian,383,200,1,Yes,No,2.7
+100014,Chennai,Italian,2304,1500,3,Yes,No,3.1
+100015,Chennai,Cafe,1619,800,2,Yes,Yes,2.5
+100016,Chennai,Desserts,798,800,2,Yes,No,3.2
+100017,Pune,Italian,1035,800,2,Yes,No,2.9
+100018,Gurgaon,Fast Food,1815,400,1,Yes,Yes,3.1
+100019,Kolkata,North Indian,1799,1000,2,No,No,3.2
+100020,Bengaluru,Chinese,1153,1500,3,Yes,Yes,2.7
+100021,Pune,North Indian,757,500,1,No,No,2.0
+100022,Mumbai,North Indian,1650,300,1,Yes,No,2.3
+100023,Gurgaon,Desserts,1645,600,1,Yes,No,2.3
+100024,Jaipur,Desserts,1499,400,1,Yes,No,3.0
+100025,Chennai,Desserts,183,600,1,Yes,No,2.9
+100026,Hyderabad,North Indian,1182,1000,2,Yes,Yes,3.5
+100027,Bengaluru,North Indian,1535,300,1,No,Yes,2.8
+100028,Kolkata,South Indian,2375,1500,3,Yes,No,3.3
+100029,Pune,Cafe,1314,400,1,Yes,No,3.2
+100030,Bengaluru,Italian,857,2000,4,No,No,3.6
+100031,Bengaluru,Fast Food,1389,1500,3,Yes,No,3.2
+100032,Noida,Chinese,443,400,1,Yes,Yes,3.4
+100033,New Delhi,Continental,227,1000,2,Yes,Yes,3.1
+100034,Pune,Italian,1695,300,1,Yes,Yes,2.6
+100035,Kolkata,North Indian,2465,300,1,Yes,No,2.3
+100036,New Delhi,Continental,2115,2500,4,No,No,3.8
+100037,Kolkata,Street Food,1459,1500,3,No,No,3.6
+100038,Kolkata,North Indian,101,300,1,Yes,Yes,2.7
+100039,Noida,Fast Food,2469,500,1,No,Yes,3.2
+100040,Hyderabad,Desserts,1124,400,1,No,No,1.7
+100041,Gurgaon,Continental,724,600,1,Yes,No,2.7
+100042,Chennai,Desserts,2231,500,1,No,No,2.6
+100043,Chennai,Fast Food,1866,500,1,No,No,2.3
+100044,Mumbai,Italian,1874,800,2,No,No,3.8
+100045,New Delhi,Continental,695,400,1,No,No,2.5
+100046,Jaipur,Chinese,2479,2000,4,Yes,No,3.3
+100047,Bengaluru,South Indian,1132,1500,3,Yes,No,3.2
+100048,Kolkata,Mexican,1329,1500,3,Yes,No,2.4
+100049,Hyderabad,Mexican,1877,300,1,Yes,No,2.3
+100050,Chennai,Chinese,1650,1200,2,Yes,Yes,3.5
+100051,Chennai,Cafe,431,2000,4,No,No,3.1
+100052,Gurgaon,Italian,756,300,1,Yes,Yes,2.4
+100053,Mumbai,Cafe,903,1500,3,Yes,No,3.8
+100054,Bengaluru,Street Food,2368,500,1,No,No,3.2
+100055,Bengaluru,North Indian,1786,1500,3,Yes,No,3.4
+100056,New Delhi,Street Food,916,800,2,Yes,No,2.7
+100057,Pune,Fast Food,1837,1500,3,No,No,3.0
+100058,Gurgaon,Continental,1846,300,1,Yes,Yes,2.4
+100059,Chennai,Fast Food,986,600,1,Yes,Yes,2.4
+100060,Hyderabad,Italian,1008,500,1,Yes,Yes,2.3
+100061,Jaipur,Continental,2235,400,1,No,No,2.3
+100062,Chennai,Mexican,1404,500,1,Yes,No,2.3
+100063,Mumbai,Chinese,374,600,1,Yes,Yes,2.1
+100064,Jaipur,Continental,1799,300,1,Yes,No,2.7
+100065,Bengaluru,Continental,1474,1200,2,Yes,No,3.1
+100066,Mumbai,Italian,1272,1000,2,No,No,3.6
+100067,Jaipur,Street Food,1813,2000,4,Yes,No,3.2
+100068,Mumbai,Mexican,2267,1200,2,No,Yes,3.1
+100069,New Delhi,Italian,826,300,1,Yes,No,2.8
+100070,Bengaluru,North Indian,1048,200,1,Yes,No,2.5
+100071,Chennai,Mexican,474,600,1,No,Yes,3.0
+100072,Gurgaon,South Indian,1618,800,2,Yes,No,3.2
+100073,Bengaluru,Continental,1007,400,1,Yes,No,2.8
+100074,Gurgaon,Cafe,856,1500,3,No,No,3.0
+100075,Hyderabad,Fast Food,1741,1000,2,Yes,No,2.8
+100076,Bengaluru,Chinese,1020,1500,3,Yes,No,2.6
+100077,Mumbai,Continental,1161,300,1,No,No,2.2
+100078,Noida,Chinese,1100,1500,3,Yes,No,3.0
+100079,Pune,Fast Food,647,400,1,Yes,No,2.2
+100080,Hyderabad,Desserts,315,600,1,Yes,Yes,3.0
+100081,Jaipur,Street Food,2068,600,1,Yes,Yes,3.3
+100082,Bengaluru,Street Food,230,2000,4,Yes,Yes,3.2
+100083,Gurgaon,Street Food,812,500,1,No,No,2.7
+100084,Kolkata,Cafe,1669,400,1,Yes,No,2.2
+100085,Hyderabad,South Indian,329,500,1,No,No,2.5
+100086,Chennai,Desserts,1639,500,1,Yes,No,2.4
+100087,New Delhi,Desserts,1832,300,1,Yes,Yes,3.0
+100088,Mumbai,Street Food,1657,300,1,Yes,No,2.4
+100089,Chennai,Mexican,763,400,1,No,No,3.0
+100090,Kolkata,Chinese,50,800,2,Yes,No,2.8
+100091,Bengaluru,Cafe,2218,500,1,Yes,No,2.4
+100092,Kolkata,Fast Food,817,600,1,No,No,2.1
+100093,Kolkata,Desserts,2012,1200,2,Yes,No,3.1
+100094,Mumbai,Italian,495,400,1,Yes,No,3.0
+100095,Kolkata,Italian,406,2500,4,No,No,3.6
+100096,Noida,North Indian,1945,1500,3,Yes,Yes,4.2
+100097,Noida,Desserts,2349,300,1,Yes,Yes,3.3
+100098,Hyderabad,Continental,2151,500,1,Yes,No,2.6
+100099,Hyderabad,North Indian,1878,400,1,Yes,Yes,2.6
+100100,Gurgaon,Fast Food,617,500,1,Yes,Yes,3.0
+100101,Kolkata,Fast Food,2283,600,1,No,No,2.3
+100102,Gurgaon,Fast Food,1669,300,1,Yes,Yes,3.2
+100103,Kolkata,Street Food,431,200,1,No,No,2.7
+100104,New Delhi,Chinese,324,600,1,No,No,2.7
+100105,Chennai,Italian,2178,1200,2,No,No,3.2
+100106,Chennai,Chinese,688,500,1,No,No,3.3
+100107,Chennai,South Indian,1914,2000,4,No,No,3.5
+100108,Hyderabad,Street Food,347,600,1,No,No,2.6
+100109,Bengaluru,Street Food,702,2000,4,Yes,Yes,4.2
+100110,Chennai,North Indian,709,400,1,Yes,No,3.1
+100111,Noida,Mexican,703,800,2,Yes,No,2.8
+100112,Chennai,South Indian,1687,1500,3,Yes,Yes,3.3
+100113,Pune,Chinese,2286,200,1,Yes,No,2.7
+100114,Bengaluru,South Indian,2275,2500,4,No,No,3.7
+100115,Pune,Chinese,1854,600,1,Yes,No,2.2
+100116,Pune,Fast Food,507,800,2,No,No,2.1
+100117,New Delhi,Street Food,2401,1000,2,Yes,Yes,2.7
+100118,Gurgaon,Cafe,1355,1200,2,Yes,No,2.6
+100119,Noida,Continental,1365,200,1,Yes,Yes,2.4
+100120,Gurgaon,Fast Food,1753,2000,4,Yes,Yes,3.8
+100121,Bengaluru,North Indian,1922,1000,2,Yes,Yes,3.0
+100122,Hyderabad,North Indian,2382,2500,4,Yes,No,3.7
+100123,Hyderabad,South Indian,1456,800,2,Yes,No,2.4
+100124,Bengaluru,South Indian,1525,1000,2,Yes,No,2.8
+100125,Kolkata,Desserts,1864,600,1,Yes,Yes,3.1
+100126,Pune,Desserts,638,2000,4,Yes,Yes,3.8
+100127,New Delhi,Desserts,769,2000,4,Yes,No,3.2
+100128,Chennai,Mexican,1564,2000,4,Yes,Yes,3.6
+100129,Pune,Cafe,161,800,2,Yes,No,3.8
+100130,Hyderabad,Mexican,801,1500,3,Yes,No,3.2
+100131,Pune,Fast Food,1795,500,1,Yes,No,2.4
+100132,Pune,Mexican,2440,800,2,No,No,2.7
+100133,New Delhi,Continental,1299,1500,3,No,Yes,3.2
+100134,Pune,Continental,999,200,1,No,Yes,2.5
+100135,Chennai,Mexican,1101,1200,2,Yes,No,3.0
+100136,Mumbai,North Indian,1713,200,1,Yes,No,2.0
+100137,Hyderabad,Continental,1361,1000,2,Yes,No,2.6
+100138,New Delhi,Italian,59,800,2,No,Yes,2.8
+100139,Mumbai,Continental,1348,800,2,No,No,2.7
+100140,Bengaluru,Cafe,1000,800,2,No,No,2.6
+100141,Jaipur,Desserts,1752,800,2,No,No,2.7
+100142,Noida,Italian,2187,600,1,Yes,Yes,2.8
+100143,Noida,Street Food,2406,600,1,No,No,3.0
+100144,Bengaluru,Desserts,1525,1000,2,No,Yes,2.9
+100145,Jaipur,Italian,907,1500,3,Yes,No,3.4
+100146,Kolkata,Fast Food,1110,1000,2,No,No,2.6
+100147,New Delhi,Cafe,441,1200,2,Yes,No,3.2
+100148,Noida,Continental,2339,2000,4,No,No,3.5
+100149,Kolkata,Mexican,2118,2500,4,No,No,3.9
+100150,New Delhi,Desserts,2135,300,1,Yes,Yes,3.0
+100151,Kolkata,Italian,820,1200,2,No,Yes,3.2
+100152,Noida,Cafe,806,400,1,Yes,No,2.6
+100153,Jaipur,Fast Food,2141,400,1,No,No,2.7
+100154,Noida,Street Food,1361,1500,3,No,Yes,3.6
+100155,Bengaluru,Italian,1761,200,1,No,Yes,2.3
+100156,Hyderabad,Cafe,1225,2000,4,No,No,3.1
+100157,Gurgaon,Chinese,1107,1500,3,Yes,Yes,3.4
+100158,Pune,Desserts,1580,2500,4,Yes,Yes,3.9
+100159,Pune,Italian,2032,1200,2,Yes,No,2.7
+100160,Chennai,Italian,835,2000,4,Yes,No,3.4
+100161,Jaipur,Cafe,2023,300,1,Yes,No,2.6
+100162,Hyderabad,Fast Food,611,2000,4,Yes,No,2.5
+100163,Bengaluru,Desserts,1007,300,1,Yes,Yes,2.6
+100164,Bengaluru,Cafe,2281,500,1,Yes,No,2.6
+100165,Bengaluru,Cafe,2386,300,1,No,No,2.5
+100166,Kolkata,Chinese,2309,600,1,Yes,No,3.3
+100167,Mumbai,North Indian,790,1500,3,No,Yes,2.7
+100168,Gurgaon,Italian,2108,400,1,Yes,Yes,2.4
+100169,Mumbai,Street Food,2340,2000,4,Yes,Yes,2.5
+100170,New Delhi,Street Food,2445,1000,2,Yes,No,2.8
+100171,Gurgaon,Mexican,53,1000,2,Yes,No,2.8
+100172,New Delhi,Mexican,1862,2500,4,Yes,No,3.4
+100173,Chennai,Italian,2491,600,1,Yes,No,3.2
+100174,Chennai,Chinese,1911,500,1,Yes,No,3.1
+100175,Hyderabad,North Indian,583,2500,4,Yes,No,3.6
+100176,Bengaluru,Italian,1906,1000,2,Yes,Yes,2.9
+100177,Chennai,Italian,264,1000,2,Yes,No,3.4
+100178,Gurgaon,Chinese,1202,500,1,No,No,2.6
+100179,Jaipur,South Indian,1565,400,1,Yes,Yes,2.4
+100180,Pune,North Indian,1141,300,1,No,No,1.8
+100181,Jaipur,Mexican,1749,400,1,No,No,2.4
+100182,Gurgaon,Street Food,601,400,1,No,Yes,3.0
+100183,Bengaluru,Mexican,1515,1500,3,No,No,4.1
+100184,Hyderabad,Fast Food,1612,200,1,Yes,Yes,2.7
+100185,Bengaluru,Fast Food,1584,1000,2,Yes,Yes,2.7
+100186,Bengaluru,Italian,724,2500,4,Yes,Yes,3.2
+100187,Gurgaon,Chinese,764,1500,3,No,No,3.3
+100188,Mumbai,Cafe,645,600,1,No,No,1.9
+100189,Noida,Cafe,1154,200,1,Yes,Yes,2.9
+100190,Mumbai,North Indian,1465,2000,4,No,No,3.7
+100191,Hyderabad,Fast Food,906,200,1,Yes,Yes,2.9
+100192,Hyderabad,South Indian,1025,1200,2,Yes,Yes,3.0
+100193,Hyderabad,Chinese,716,1200,2,No,No,3.1
+100194,Mumbai,Continental,547,400,1,Yes,No,2.7
+100195,Jaipur,Cafe,1643,1500,3,No,No,2.8
+100196,New Delhi,Mexican,2040,300,1,No,No,3.3
+100197,Mumbai,Continental,727,400,1,Yes,No,2.5
+100198,Gurgaon,Street Food,2151,1500,3,Yes,Yes,3.6
+100199,Mumbai,Desserts,1427,2500,4,Yes,Yes,2.7
+100200,Jaipur,Mexican,420,400,1,No,No,3.1
+100201,Mumbai,Desserts,915,2500,4,Yes,No,4.2
+100202,Jaipur,Fast Food,19,2500,4,No,No,3.5
+100203,Bengaluru,Street Food,98,1500,3,No,No,3.3
+100204,Hyderabad,Continental,840,300,1,Yes,No,2.9
+100205,Bengaluru,Mexican,1136,500,1,Yes,No,2.4
+100206,Noida,Street Food,1993,1200,2,No,No,3.1
+100207,Chennai,Cafe,336,2500,4,No,Yes,3.2
+100208,Jaipur,Continental,2098,1500,3,Yes,Yes,3.0
+100209,Noida,South Indian,587,600,1,Yes,Yes,3.3
+100210,Chennai,Street Food,346,400,1,Yes,Yes,3.1
+100211,Noida,Mexican,1750,2500,4,No,No,3.2
+100212,Chennai,Continental,1936,500,1,Yes,No,2.4
+100213,Chennai,Fast Food,1512,500,1,No,No,2.3
+100214,Bengaluru,Desserts,290,2500,4,Yes,No,3.9
+100215,Chennai,North Indian,289,1000,2,No,Yes,2.5
+100216,Noida,Chinese,975,400,1,Yes,No,2.8
+100217,New Delhi,Cafe,1127,200,1,Yes,No,2.9
+100218,New Delhi,Continental,2496,600,1,No,Yes,2.7
+100219,Bengaluru,Desserts,716,2500,4,No,No,3.9
+100220,Jaipur,Fast Food,482,600,1,Yes,No,2.6
+100221,Gurgaon,Mexican,2364,1200,2,Yes,Yes,3.0
+100222,Bengaluru,Cafe,385,400,1,Yes,No,2.3
+100223,Chennai,Street Food,66,1500,3,Yes,No,3.6
+100224,Noida,Mexican,1057,1500,3,Yes,No,2.9
+100225,Chennai,Fast Food,1003,1000,2,No,Yes,3.1
+100226,Mumbai,Street Food,1549,1500,3,Yes,No,3.2
+100227,Kolkata,Chinese,2194,1000,2,No,No,2.4
+100228,Pune,Street Food,2332,600,1,Yes,Yes,2.6
+100229,Pune,Chinese,724,1500,3,Yes,No,3.8
+100230,Gurgaon,South Indian,2452,2000,4,No,No,3.5
+100231,Bengaluru,Desserts,1582,2000,4,Yes,No,3.1
+100232,Kolkata,Continental,175,400,1,No,Yes,2.8
+100233,New Delhi,Street Food,2346,1200,2,Yes,No,3.0
+100234,Chennai,Continental,345,200,1,No,Yes,4.0
+100235,Bengaluru,Mexican,1471,1000,2,No,Yes,3.1
+100236,Chennai,Italian,1977,1000,2,No,Yes,2.8
+100237,Hyderabad,North Indian,624,500,1,Yes,No,3.3
+100238,Bengaluru,Chinese,677,2500,4,Yes,No,2.8
+100239,Mumbai,South Indian,1190,2000,4,Yes,No,3.5
+100240,Hyderabad,North Indian,2212,200,1,Yes,No,3.5
+100241,Gurgaon,Cafe,559,400,1,Yes,No,2.6
+100242,Pune,Continental,1658,400,1,Yes,No,1.9
+100243,New Delhi,Street Food,1132,2000,4,Yes,No,3.3
+100244,Hyderabad,Fast Food,280,800,2,Yes,No,3.5
+100245,Hyderabad,Desserts,1777,1500,3,Yes,Yes,3.5
+100246,New Delhi,Street Food,2081,1500,3,Yes,No,2.9
+100247,Chennai,Desserts,1439,1500,3,Yes,No,2.9
+100248,Bengaluru,Fast Food,441,200,1,No,No,2.3
+100249,Chennai,Italian,390,300,1,Yes,No,2.8
+100250,New Delhi,Street Food,1059,600,1,Yes,No,3.3
+100251,Gurgaon,South Indian,1266,500,1,Yes,No,3.1
+100252,Bengaluru,Fast Food,1380,1500,3,No,No,3.3
+100253,Gurgaon,North Indian,609,300,1,Yes,Yes,2.2
+100254,Mumbai,Continental,1252,600,1,No,No,2.1
+100255,Hyderabad,Mexican,738,400,1,No,Yes,2.9
+100256,Gurgaon,North Indian,1715,400,1,Yes,No,2.1
+100257,Hyderabad,South Indian,1991,300,1,No,Yes,2.5
+100258,Gurgaon,Cafe,1632,400,1,No,No,2.7
+100259,Gurgaon,Cafe,4,1000,2,Yes,No,2.5
+100260,Pune,Desserts,2480,600,1,Yes,Yes,2.4
+100261,Chennai,South Indian,60,600,1,No,Yes,2.7
+100262,Gurgaon,Street Food,2498,800,2,No,No,3.0
+100263,Noida,Fast Food,80,1500,3,Yes,Yes,3.7
+100264,Jaipur,Desserts,1291,2000,4,Yes,No,3.7
+100265,Jaipur,South Indian,265,800,2,Yes,No,2.9
+100266,Pune,North Indian,238,1200,2,Yes,Yes,2.8
+100267,Bengaluru,North Indian,1708,1500,3,No,Yes,2.7
+100268,Mumbai,Italian,1819,1200,2,Yes,No,2.8
+100269,Hyderabad,Street Food,296,300,1,No,No,2.7
+100270,Pune,North Indian,2441,2500,4,No,Yes,3.7
+100271,Noida,Italian,801,300,1,No,No,1.7
+100272,New Delhi,Chinese,796,600,1,No,No,2.3
+100273,Gurgaon,Street Food,743,1200,2,No,No,3.4
+100274,Jaipur,Mexican,1153,600,1,No,No,2.7
+100275,Bengaluru,Continental,445,400,1,No,No,2.0
+100276,Bengaluru,Continental,1062,2500,4,Yes,No,4.6
+100277,Bengaluru,Mexican,525,200,1,Yes,No,2.6
+100278,Chennai,Continental,129,400,1,Yes,No,2.8
+100279,New Delhi,North Indian,922,2500,4,No,No,3.7
+100280,New Delhi,Desserts,1680,1500,3,No,Yes,3.0
+100281,Noida,Continental,1907,200,1,Yes,No,2.3
+100282,Bengaluru,Continental,883,1500,3,Yes,Yes,4.2
+100283,Hyderabad,Italian,810,2500,4,Yes,Yes,4.1
+100284,Bengaluru,Desserts,1968,300,1,No,Yes,3.0
+100285,Bengaluru,Italian,1703,600,1,Yes,Yes,3.0
+100286,Jaipur,North Indian,2080,800,2,Yes,No,2.5
+100287,Gurgaon,Street Food,2265,300,1,No,No,3.1
+100288,Pune,South Indian,2053,400,1,No,No,2.2
+100289,Pune,Chinese,2341,300,1,Yes,Yes,2.8
+100290,Bengaluru,Mexican,1042,400,1,Yes,No,2.0
+100291,Kolkata,South Indian,987,600,1,No,No,1.8
+100292,Noida,Desserts,804,800,2,No,No,2.9
+100293,Jaipur,Fast Food,588,400,1,No,No,2.2
+100294,Mumbai,North Indian,1872,500,1,Yes,No,1.9
+100295,Pune,Street Food,1786,400,1,Yes,No,2.9
+100296,Pune,Cafe,2003,1500,3,Yes,No,4.1
+100297,Kolkata,South Indian,419,400,1,No,No,3.1
+100298,Bengaluru,Mexican,1228,2000,4,Yes,No,3.4
+100299,Noida,Cafe,555,800,2,Yes,No,2.9
+100300,New Delhi,North Indian,2232,1500,3,No,Yes,3.6
+100301,Mumbai,Continental,669,1200,2,No,No,3.4
+100302,Kolkata,Fast Food,360,400,1,No,No,2.4
+100303,New Delhi,Mexican,1425,1000,2,Yes,Yes,3.1
+100304,Kolkata,Desserts,2197,500,1,Yes,No,2.8
+100305,Pune,Mexican,2289,300,1,Yes,No,2.9
+100306,Gurgaon,Mexican,241,400,1,Yes,Yes,2.7
+100307,Mumbai,South Indian,815,500,1,Yes,Yes,2.7
+100308,Pune,South Indian,384,300,1,Yes,Yes,3.3
+100309,Mumbai,Fast Food,770,200,1,No,No,3.0
+100310,Gurgaon,Desserts,1335,2500,4,No,Yes,3.8
+100311,Hyderabad,Cafe,702,800,2,No,No,3.5
+100312,Hyderabad,Italian,169,600,1,Yes,No,2.6
+100313,Gurgaon,Continental,1275,2500,4,Yes,No,4.3
+100314,Noida,Desserts,132,400,1,Yes,No,2.9
+100315,Noida,Street Food,567,600,1,Yes,No,4.1
+100316,Hyderabad,South Indian,2,2000,4,Yes,Yes,3.0
+100317,Chennai,Continental,217,1000,2,Yes,No,2.7
+100318,Chennai,Cafe,1091,600,1,No,Yes,2.9
+100319,Jaipur,Fast Food,2126,400,1,Yes,Yes,2.9
+100320,Chennai,Italian,1936,200,1,No,No,3.3
+100321,Mumbai,Chinese,247,200,1,Yes,Yes,2.4
+100322,Gurgaon,South Indian,88,300,1,Yes,No,3.0
+100323,Hyderabad,Cafe,845,1500,3,Yes,No,3.7
+100324,Jaipur,Desserts,1630,1200,2,Yes,No,3.3
+100325,Jaipur,Desserts,1867,600,1,Yes,No,2.3
+100326,Noida,Chinese,2057,1500,3,No,No,3.7
+100327,Noida,Mexican,856,300,1,Yes,No,3.2
+100328,New Delhi,North Indian,420,400,1,Yes,No,2.9
+100329,Gurgaon,Mexican,66,600,1,Yes,No,2.8
+100330,Pune,Italian,368,2500,4,Yes,Yes,3.8
+100331,Pune,Fast Food,163,1000,2,No,No,2.8
+100332,Mumbai,Continental,2152,2000,4,Yes,Yes,3.8
+100333,Mumbai,Fast Food,671,400,1,No,Yes,2.7
+100334,Kolkata,Desserts,2057,2000,4,Yes,Yes,3.2
+100335,Bengaluru,Cafe,1383,200,1,Yes,No,2.2
+100336,Kolkata,Street Food,1347,400,1,No,No,2.3
+100337,Jaipur,Mexican,1137,800,2,No,No,2.9
+100338,Mumbai,South Indian,2048,200,1,Yes,No,2.6
+100339,Noida,Continental,109,2000,4,Yes,No,3.6
+100340,Jaipur,Fast Food,232,2000,4,Yes,No,3.7
+100341,Hyderabad,Cafe,1059,800,2,Yes,No,2.6
+100342,Noida,Chinese,986,500,1,Yes,No,3.3
+100343,Hyderabad,Chinese,1364,300,1,No,Yes,2.5
+100344,Pune,Cafe,1844,1000,2,Yes,Yes,2.9
+100345,Jaipur,Chinese,1469,800,2,No,No,3.0
+100346,Noida,Street Food,644,1500,3,Yes,No,2.4
+100347,Jaipur,Desserts,818,1000,2,No,No,2.5
+100348,Jaipur,Continental,1881,300,1,No,No,3.0
+100349,Gurgaon,Continental,504,300,1,Yes,No,1.9
+100350,Gurgaon,Cafe,1260,1500,3,Yes,No,3.7
+100351,Pune,North Indian,1347,300,1,Yes,Yes,3.4
+100352,New Delhi,Italian,1875,2500,4,No,Yes,3.4
+100353,Noida,Fast Food,1786,300,1,Yes,Yes,2.8
+100354,Bengaluru,Street Food,1162,1500,3,Yes,No,3.7
+100355,Jaipur,South Indian,773,2500,4,Yes,No,3.4
+100356,Jaipur,Fast Food,920,600,1,No,No,3.0
+100357,Gurgaon,Italian,1029,200,1,Yes,No,2.3
+100358,Kolkata,Chinese,548,2000,4,Yes,No,3.3
+100359,New Delhi,Chinese,1563,400,1,No,No,2.2
+100360,Chennai,Italian,521,800,2,Yes,No,3.0
+100361,Kolkata,North Indian,1622,2500,4,No,No,4.0
+100362,Kolkata,North Indian,1878,1500,3,Yes,No,3.1
+100363,Noida,Italian,2404,200,1,Yes,No,2.1
+100364,Kolkata,South Indian,298,2000,4,No,No,2.9
+100365,Gurgaon,Cafe,1899,300,1,No,No,2.7
+100366,Pune,North Indian,215,1500,3,No,No,3.9
+100367,Bengaluru,Italian,843,1000,2,Yes,No,3.1
+100368,Mumbai,Fast Food,441,500,1,Yes,No,2.5
+100369,New Delhi,Street Food,406,600,1,Yes,Yes,3.1
+100370,Chennai,Mexican,439,300,1,Yes,No,2.5
+100371,Mumbai,Desserts,110,2500,4,Yes,No,3.4
+100372,Hyderabad,Italian,2057,400,1,Yes,Yes,2.3
+100373,Bengaluru,Fast Food,153,500,1,Yes,No,3.3
+100374,Mumbai,Fast Food,996,800,2,Yes,Yes,1.9
+100375,Kolkata,Desserts,1748,1200,2,Yes,No,3.3
+100376,New Delhi,Street Food,2475,800,2,Yes,No,2.7
+100377,Chennai,Street Food,2134,800,2,No,Yes,2.7
+100378,Chennai,Continental,343,1000,2,No,No,3.6
+100379,Mumbai,Cafe,2469,2000,4,Yes,No,3.2
+100380,Noida,Cafe,1634,600,1,No,No,2.3
+100381,New Delhi,Street Food,449,2000,4,No,No,3.3
+100382,Jaipur,South Indian,1122,1500,3,Yes,No,3.4
+100383,Jaipur,Italian,2294,2500,4,Yes,No,3.4
+100384,Noida,Desserts,982,2500,4,Yes,No,3.0
+100385,New Delhi,Italian,459,1500,3,Yes,Yes,2.9
+100386,Gurgaon,South Indian,2187,400,1,No,No,3.1
+100387,New Delhi,Cafe,2382,1500,3,No,No,3.2
+100388,Kolkata,Italian,2439,1500,3,Yes,No,3.4
+100389,Kolkata,Desserts,2389,500,1,No,No,2.5
+100390,Gurgaon,Street Food,2182,1200,2,Yes,Yes,2.8
+100391,Chennai,Italian,1136,400,1,No,Yes,3.4
+100392,Gurgaon,Cafe,481,800,2,No,No,2.7
+100393,Mumbai,Street Food,1543,1500,3,Yes,No,3.0
+100394,Pune,Continental,552,400,1,Yes,Yes,3.2
+100395,Chennai,South Indian,1183,500,1,No,No,2.3
+100396,Kolkata,Cafe,1640,1500,3,No,No,2.9
+100397,New Delhi,Mexican,2366,600,1,Yes,Yes,2.8
+100398,Gurgaon,Mexican,723,2500,4,Yes,Yes,3.7
+100399,Noida,North Indian,630,200,1,Yes,No,2.7
+100400,Mumbai,South Indian,1837,1200,2,Yes,No,3.9
+100401,Jaipur,Desserts,17,1500,3,No,Yes,3.3
+100402,Chennai,South Indian,1416,2500,4,No,No,2.5
+100403,Mumbai,South Indian,1865,300,1,No,No,2.7
+100404,Jaipur,Italian,1377,2500,4,No,No,3.5
+100405,Bengaluru,Chinese,960,600,1,No,No,2.6
+100406,Pune,Chinese,2071,500,1,Yes,No,2.8
+100407,Bengaluru,Italian,928,500,1,Yes,No,2.7
+100408,Gurgaon,Desserts,1776,1200,2,Yes,Yes,3.1
+100409,Jaipur,North Indian,1160,1200,2,Yes,No,3.3
+100410,New Delhi,South Indian,67,800,2,No,Yes,2.6
+100411,Gurgaon,North Indian,1326,200,1,No,No,2.1
+100412,Noida,Cafe,124,2500,4,No,Yes,4.9
+100413,Noida,South Indian,2327,400,1,Yes,No,2.4
+100414,Gurgaon,Continental,1504,300,1,Yes,Yes,2.8
+100415,New Delhi,Cafe,930,1000,2,Yes,No,2.3
+100416,Hyderabad,Continental,1215,600,1,Yes,Yes,2.9
+100417,Jaipur,Mexican,1548,1000,2,Yes,No,2.6
+100418,Gurgaon,Fast Food,651,2000,4,Yes,No,3.3
+100419,Noida,Desserts,721,300,1,Yes,Yes,3.2
+100420,Pune,Fast Food,1047,500,1,No,No,2.8
+100421,Jaipur,Street Food,647,800,2,Yes,No,3.1
+100422,Hyderabad,Street Food,1895,1500,3,Yes,No,2.5
+100423,Chennai,Cafe,260,1000,2,No,No,3.6
+100424,Pune,Mexican,2066,600,1,Yes,No,2.2
+100425,Bengaluru,South Indian,871,1000,2,No,Yes,3.6
+100426,Gurgaon,Desserts,1403,2500,4,No,No,3.9
+100427,Kolkata,Mexican,395,800,2,Yes,Yes,3.2
+100428,Kolkata,Street Food,964,2000,4,No,No,3.0
+100429,New Delhi,South Indian,1886,1500,3,No,No,3.2
+100430,Chennai,Continental,677,500,1,No,No,2.4
+100431,New Delhi,Fast Food,331,400,1,No,No,2.6
+100432,Chennai,Chinese,1305,1500,3,No,No,3.0
+100433,Kolkata,Chinese,407,400,1,No,No,1.7
+100434,Gurgaon,Cafe,787,500,1,Yes,Yes,3.2
+100435,Bengaluru,Italian,1126,400,1,No,Yes,2.6
+100436,Gurgaon,Chinese,1410,1000,2,No,No,2.7
+100437,Pune,Fast Food,1598,500,1,No,No,2.4
+100438,Jaipur,Mexican,1691,1200,2,No,No,3.1
+100439,New Delhi,Italian,2110,2500,4,Yes,Yes,3.3
+100440,Mumbai,Street Food,166,2000,4,No,No,2.4
+100441,Jaipur,Continental,906,2500,4,No,Yes,3.8
+100442,Mumbai,Cafe,3,200,1,Yes,Yes,2.9
+100443,Gurgaon,Street Food,24,800,2,Yes,Yes,2.9
+100444,Bengaluru,Fast Food,531,400,1,Yes,No,2.2
+100445,Pune,Chinese,1495,2500,4,Yes,No,3.7
+100446,Hyderabad,North Indian,2236,1200,2,Yes,No,2.4
+100447,Mumbai,Street Food,1934,500,1,Yes,No,2.3
+100448,Jaipur,Street Food,1616,1000,2,Yes,No,2.6
+100449,Pune,Continental,1945,1000,2,No,No,3.2
+100450,Noida,Chinese,430,800,2,No,No,2.6
+100451,Jaipur,South Indian,2099,800,2,No,No,2.6
+100452,Jaipur,North Indian,2225,200,1,No,No,3.3
+100453,Bengaluru,North Indian,238,600,1,No,Yes,2.8
+100454,New Delhi,South Indian,1175,500,1,No,Yes,2.8
+100455,Pune,Cafe,2075,2000,4,No,No,3.2
+100456,Pune,North Indian,1190,2000,4,Yes,No,3.2
+100457,Gurgaon,Street Food,2101,1500,3,No,No,2.2
+100458,Hyderabad,Fast Food,2338,200,1,Yes,No,3.0
+100459,Kolkata,South Indian,1187,2000,4,Yes,Yes,3.7
+100460,Gurgaon,Cafe,149,600,1,Yes,No,2.6
+100461,Chennai,Continental,850,600,1,No,No,2.6
+100462,Gurgaon,Italian,538,2500,4,No,No,3.8
+100463,Chennai,North Indian,1185,2000,4,Yes,Yes,2.9
+100464,Bengaluru,North Indian,1464,200,1,No,No,2.3
+100465,New Delhi,Desserts,1160,500,1,Yes,No,2.2
+100466,Jaipur,Chinese,489,1500,3,No,No,3.9
+100467,Gurgaon,Mexican,753,800,2,No,No,3.2
+100468,Pune,Italian,1699,400,1,No,No,1.6
+100469,Gurgaon,Continental,68,800,2,No,No,2.2
+100470,Jaipur,North Indian,536,2000,4,Yes,No,3.4
+100471,Chennai,Desserts,2230,400,1,Yes,No,2.5
+100472,Kolkata,Mexican,248,1500,3,No,No,2.6
+100473,Bengaluru,Fast Food,1037,1500,3,No,No,3.9
+100474,Bengaluru,South Indian,518,2000,4,Yes,No,3.6
+100475,Hyderabad,Street Food,262,500,1,Yes,No,2.9
+100476,Chennai,Italian,1057,400,1,Yes,No,2.4
+100477,Kolkata,Fast Food,1304,1000,2,Yes,No,3.3
+100478,New Delhi,Italian,441,800,2,Yes,No,2.7
+100479,Hyderabad,South Indian,195,600,1,Yes,No,2.6
+100480,Gurgaon,Fast Food,337,1500,3,No,No,3.4
+100481,Noida,Chinese,1629,1500,3,Yes,No,2.5
+100482,Kolkata,North Indian,2150,400,1,Yes,No,3.3
+100483,Noida,South Indian,451,1500,3,Yes,No,3.3
+100484,Chennai,Chinese,801,400,1,Yes,No,3.2
+100485,Bengaluru,Fast Food,860,600,1,No,No,2.2
+100486,Noida,Desserts,902,200,1,Yes,No,2.2
+100487,Mumbai,Chinese,611,500,1,No,No,2.1
+100488,Pune,North Indian,139,2500,4,No,No,3.6
+100489,Chennai,Chinese,1313,600,1,Yes,Yes,2.8
+100490,Hyderabad,Cafe,894,1200,2,No,No,2.7
+100491,Jaipur,South Indian,856,300,1,No,No,2.1
+100492,Kolkata,Fast Food,662,1000,2,Yes,Yes,2.5
+100493,Chennai,North Indian,2323,600,1,Yes,No,2.7
+100494,Hyderabad,Italian,1526,1500,3,No,No,2.9
+100495,Noida,Fast Food,1047,2500,4,No,Yes,3.3
+100496,Bengaluru,Fast Food,514,800,2,Yes,No,3.5
+100497,Gurgaon,Cafe,2003,300,1,Yes,No,2.6
+100498,Mumbai,Continental,2221,800,2,Yes,No,3.4
+100499,Jaipur,Fast Food,81,300,1,No,No,2.3
+100500,Bengaluru,Desserts,2324,600,1,Yes,No,2.8
+100501,Gurgaon,Cafe,1748,200,1,Yes,No,2.6
+100502,Hyderabad,South Indian,250,1200,2,No,No,2.2
+100503,Jaipur,South Indian,1883,500,1,No,Yes,3.3
+100504,Kolkata,Italian,269,400,1,No,No,2.5
+100505,Noida,Cafe,128,200,1,Yes,No,2.9
+100506,Bengaluru,South Indian,289,2000,4,Yes,No,3.2
+100507,Pune,Street Food,1150,2000,4,No,No,3.3
+100508,Noida,Fast Food,1549,1500,3,No,No,2.8
+100509,Noida,Desserts,1018,200,1,Yes,No,3.1
+100510,Noida,Mexican,305,500,1,No,Yes,2.8
+100511,Jaipur,Italian,498,2500,4,Yes,No,3.8
+100512,Chennai,South Indian,2131,1000,2,Yes,No,3.5
+100513,Kolkata,Continental,2406,300,1,Yes,No,3.1
+100514,Kolkata,Italian,1885,300,1,Yes,No,3.0
+100515,Jaipur,South Indian,259,400,1,Yes,No,2.1
+100516,Gurgaon,Street Food,2049,2500,4,No,No,3.2
+100517,Kolkata,Fast Food,1730,300,1,Yes,No,2.2
+100518,New Delhi,North Indian,1315,2000,4,Yes,Yes,3.9
+100519,Bengaluru,Fast Food,358,1200,2,Yes,No,3.1
+100520,Pune,Fast Food,2491,2500,4,Yes,No,3.0
+100521,Mumbai,Desserts,1107,2000,4,Yes,No,3.4
+100522,Gurgaon,Continental,111,500,1,Yes,No,2.1
+100523,Gurgaon,Chinese,525,2000,4,Yes,Yes,3.5
+100524,Kolkata,Chinese,1003,300,1,No,No,1.8
+100525,Mumbai,Mexican,156,500,1,No,No,2.8
+100526,Mumbai,North Indian,810,400,1,Yes,No,2.8
+100527,Jaipur,Italian,1171,300,1,No,Yes,3.4
+100528,Gurgaon,Chinese,2371,200,1,No,Yes,3.0
+100529,Jaipur,North Indian,216,400,1,No,No,2.4
+100530,Jaipur,Street Food,1442,300,1,No,No,2.9
+100531,Pune,North Indian,2289,600,1,No,Yes,2.1
+100532,Gurgaon,North Indian,2015,200,1,No,Yes,2.2
+100533,Gurgaon,Street Food,2312,200,1,No,No,2.7
+100534,Noida,Chinese,426,2500,4,Yes,Yes,2.8
+100535,Pune,Desserts,2003,200,1,No,No,2.5
+100536,Gurgaon,North Indian,2446,200,1,No,No,2.1
+100537,Bengaluru,Chinese,815,200,1,No,Yes,2.6
+100538,Gurgaon,Chinese,1247,300,1,Yes,No,2.2
+100539,Pune,Continental,1327,800,2,Yes,Yes,3.2
+100540,New Delhi,Mexican,1234,2000,4,Yes,No,3.5
+100541,Chennai,Fast Food,725,1500,3,Yes,No,3.8
+100542,New Delhi,South Indian,2427,1000,2,Yes,No,3.0
+100543,Gurgaon,North Indian,2391,200,1,Yes,No,2.3
+100544,Gurgaon,Cafe,952,1500,3,Yes,Yes,3.2
+100545,Kolkata,South Indian,2013,200,1,Yes,No,2.1
+100546,New Delhi,Cafe,994,1000,2,Yes,No,3.1
+100547,Bengaluru,Mexican,1987,600,1,No,No,2.9
+100548,Pune,Desserts,1462,2000,4,Yes,No,4.5
+100549,Pune,Fast Food,1175,500,1,Yes,Yes,2.5
+100550,Hyderabad,North Indian,321,1200,2,Yes,No,2.9
+100551,Kolkata,South Indian,1636,600,1,Yes,No,2.5
+100552,Mumbai,Desserts,803,800,2,Yes,No,3.0
+100553,Kolkata,Cafe,542,2500,4,No,No,3.7
+100554,Mumbai,Mexican,483,1200,2,No,No,2.9
+100555,Jaipur,Fast Food,2454,600,1,Yes,No,3.2
+100556,Pune,Chinese,259,600,1,No,No,2.4
+100557,Chennai,Desserts,1996,1200,2,Yes,No,3.4
+100558,Kolkata,Continental,2165,500,1,Yes,No,2.9
+100559,Chennai,Street Food,78,300,1,Yes,No,2.6
+100560,Kolkata,Desserts,1473,800,2,Yes,No,2.8
+100561,Pune,South Indian,1443,200,1,No,No,3.5
+100562,New Delhi,South Indian,897,300,1,No,No,2.2
+100563,Bengaluru,South Indian,1667,600,1,No,No,2.8
+100564,Gurgaon,Street Food,1022,1500,3,Yes,Yes,3.0
+100565,Kolkata,Cafe,1099,1500,3,No,No,3.9
+100566,Noida,Fast Food,1079,400,1,Yes,No,3.0
+100567,Noida,Street Food,2001,600,1,Yes,No,2.4
+100568,Noida,Mexican,1583,300,1,Yes,No,2.9
+100569,Hyderabad,Street Food,948,1500,3,No,No,3.2
+100570,Pune,Street Food,2316,400,1,No,No,2.4
+100571,Jaipur,North Indian,2005,1500,3,Yes,No,3.5
+100572,Bengaluru,Italian,2332,2000,4,Yes,Yes,3.7
+100573,Noida,Continental,1826,1200,2,No,No,3.0
+100574,New Delhi,Desserts,979,500,1,No,No,2.6
+100575,New Delhi,Chinese,1932,2500,4,Yes,No,3.8
+100576,Mumbai,Italian,823,1200,2,No,No,3.0
+100577,Jaipur,Cafe,678,1200,2,No,No,2.9
+100578,Pune,Continental,1128,2000,4,No,Yes,3.2
+100579,Kolkata,Chinese,2423,2000,4,Yes,No,4.2
+100580,Gurgaon,Mexican,1420,200,1,No,Yes,2.2
+100581,New Delhi,South Indian,959,2000,4,Yes,No,3.7
+100582,Kolkata,South Indian,1155,1500,3,No,No,3.0
+100583,Gurgaon,Cafe,728,400,1,Yes,No,3.4
+100584,New Delhi,Fast Food,1647,500,1,Yes,No,2.3
+100585,Bengaluru,Mexican,876,1500,3,Yes,No,2.9
+100586,Jaipur,Italian,1386,400,1,Yes,No,2.3
+100587,Hyderabad,Desserts,925,600,1,Yes,No,2.9
+100588,New Delhi,North Indian,802,1200,2,Yes,No,2.4
+100589,Kolkata,Desserts,2425,1200,2,Yes,No,2.8
+100590,Kolkata,North Indian,864,2500,4,Yes,No,2.7
+100591,Kolkata,Continental,177,300,1,No,No,2.6
+100592,Jaipur,Italian,947,500,1,No,No,2.4
+100593,Noida,Italian,1330,2500,4,No,No,2.9
+100594,Jaipur,North Indian,237,1000,2,Yes,Yes,3.5
+100595,Mumbai,Continental,764,400,1,Yes,Yes,2.2
+100596,Kolkata,Chinese,415,500,1,No,No,2.9
+100597,Pune,Mexican,1252,500,1,Yes,No,2.4
+100598,Chennai,Continental,1808,1000,2,Yes,No,3.6
+100599,Hyderabad,Desserts,2421,500,1,No,No,2.9
+100600,Hyderabad,Continental,973,1000,2,No,No,2.4
+100601,Hyderabad,Italian,2158,600,1,Yes,No,2.3
+100602,Chennai,Continental,537,1000,2,No,Yes,3.2
+100603,Chennai,Desserts,1951,300,1,Yes,No,2.5
+100604,Gurgaon,Italian,1407,1000,2,No,Yes,2.9
+100605,Kolkata,Chinese,1895,2500,4,Yes,No,4.2
+100606,Pune,Desserts,1889,300,1,Yes,Yes,2.4
+100607,Mumbai,Chinese,1331,500,1,No,Yes,2.7
+100608,Pune,Cafe,644,1200,2,Yes,Yes,3.5
+100609,Jaipur,South Indian,1315,1000,2,No,Yes,3.3
+100610,Kolkata,Chinese,2067,1200,2,Yes,Yes,3.0
+100611,Kolkata,Continental,2426,1000,2,No,No,2.7
+100612,Bengaluru,Chinese,2318,1200,2,No,No,2.2
+100613,Chennai,Mexican,454,1000,2,Yes,No,2.5
+100614,Mumbai,Mexican,1493,200,1,No,No,2.6
+100615,Hyderabad,North Indian,262,1500,3,Yes,No,3.1
+100616,Hyderabad,Chinese,1672,600,1,Yes,No,2.8
+100617,Noida,Continental,2480,200,1,Yes,No,3.1
+100618,Noida,Cafe,132,600,1,No,Yes,2.2
+100619,New Delhi,Chinese,1641,600,1,No,No,2.5
+100620,Gurgaon,Street Food,2363,200,1,No,No,2.6
+100621,Bengaluru,South Indian,2118,2500,4,No,No,3.2
+100622,Bengaluru,North Indian,981,400,1,No,Yes,3.2
+100623,Gurgaon,Street Food,260,500,1,Yes,No,3.1
+100624,Bengaluru,North Indian,2309,600,1,No,No,2.8
+100625,Hyderabad,Cafe,2303,2000,4,Yes,No,4.2
+100626,Noida,Street Food,1447,1500,3,Yes,No,2.6
+100627,Mumbai,Cafe,2447,1500,3,Yes,No,3.2
+100628,Mumbai,Cafe,12,400,1,Yes,No,2.8
+100629,Pune,Italian,1541,2000,4,Yes,No,3.1
+100630,Mumbai,Chinese,97,2000,4,Yes,Yes,3.7
+100631,Chennai,Cafe,2339,800,2,Yes,Yes,2.5
+100632,Mumbai,Desserts,1701,1000,2,Yes,No,3.2
+100633,Bengaluru,North Indian,2283,200,1,No,No,3.0
+100634,Mumbai,Desserts,1407,1500,3,No,No,3.2
+100635,Gurgaon,Fast Food,209,2500,4,Yes,No,2.8
+100636,Hyderabad,Cafe,67,800,2,Yes,Yes,2.6
+100637,Noida,Chinese,839,800,2,Yes,No,3.1
+100638,Noida,Mexican,1858,800,2,Yes,Yes,3.0
+100639,Chennai,Chinese,378,200,1,No,No,1.4
+100640,Jaipur,South Indian,2130,1000,2,Yes,No,3.5
+100641,Hyderabad,Continental,599,1200,2,No,Yes,3.0
+100642,Jaipur,North Indian,1241,2500,4,No,Yes,3.3
+100643,Kolkata,Fast Food,508,2500,4,Yes,No,4.0
+100644,Bengaluru,Cafe,1164,800,2,No,Yes,2.6
+100645,Chennai,Chinese,1130,2500,4,Yes,Yes,3.4
+100646,Mumbai,South Indian,14,800,2,No,No,2.9
+100647,Bengaluru,Italian,1419,1200,2,No,No,3.7
+100648,Pune,Mexican,1966,1000,2,No,No,3.5
+100649,Jaipur,Street Food,2340,2500,4,No,Yes,3.8
+100650,Kolkata,Desserts,827,1500,3,No,No,3.3
+100651,Bengaluru,Chinese,2201,300,1,No,No,2.9
+100652,Hyderabad,North Indian,2197,200,1,Yes,Yes,2.2
+100653,Noida,North Indian,2470,600,1,No,No,2.9
+100654,Kolkata,Cafe,933,800,2,No,Yes,2.6
+100655,Pune,Chinese,2127,1200,2,Yes,No,3.2
+100656,Pune,South Indian,1413,800,2,No,Yes,2.8
+100657,Chennai,Desserts,146,800,2,Yes,Yes,3.2
+100658,Hyderabad,Desserts,676,2500,4,Yes,No,3.7
+100659,New Delhi,Desserts,1680,500,1,Yes,No,1.4
+100660,Noida,South Indian,402,800,2,Yes,Yes,3.0
+100661,Gurgaon,Mexican,1087,1000,2,No,Yes,3.2
+100662,Chennai,Mexican,1937,800,2,Yes,No,3.1
+100663,New Delhi,Chinese,375,2500,4,Yes,No,3.6
+100664,Noida,Cafe,1241,2500,4,Yes,No,4.3
+100665,Pune,Cafe,537,800,2,Yes,Yes,3.1
+100666,Hyderabad,Italian,1341,600,1,No,No,2.8
+100667,Pune,Continental,602,1000,2,No,Yes,3.4
+100668,Kolkata,Mexican,2413,300,1,Yes,Yes,2.9
+100669,Jaipur,Cafe,192,600,1,Yes,No,2.3
+100670,Gurgaon,Continental,2408,400,1,Yes,No,1.6
+100671,Jaipur,Continental,1979,300,1,No,No,2.3
+100672,Hyderabad,Cafe,2139,300,1,Yes,No,3.0
+100673,Hyderabad,South Indian,2128,1000,2,Yes,No,2.8
+100674,New Delhi,Continental,469,200,1,Yes,No,2.9
+100675,Hyderabad,Continental,2327,1200,2,No,No,3.0
+100676,Chennai,Street Food,1486,600,1,Yes,No,3.3
+100677,Pune,Chinese,2405,600,1,Yes,No,2.6
+100678,New Delhi,Fast Food,2195,1500,3,No,No,3.3
+100679,Pune,Street Food,1449,800,2,No,Yes,3.1
+100680,Jaipur,Cafe,936,1500,3,Yes,Yes,3.9
+100681,Chennai,Street Food,294,1200,2,No,No,2.2
+100682,Gurgaon,North Indian,253,200,1,No,Yes,2.4
+100683,Jaipur,North Indian,974,400,1,Yes,No,3.0
+100684,Jaipur,Continental,2027,1000,2,No,No,3.5
+100685,Gurgaon,Italian,1263,2500,4,Yes,Yes,3.8
+100686,Kolkata,Cafe,1204,300,1,No,Yes,2.5
+100687,Bengaluru,Fast Food,611,300,1,Yes,No,3.0
+100688,Pune,Fast Food,1411,2500,4,No,No,3.9
+100689,Bengaluru,Street Food,1595,2500,4,Yes,No,3.5
+100690,Chennai,North Indian,2455,300,1,Yes,No,2.8
+100691,Jaipur,Continental,1823,600,1,No,Yes,3.2
+100692,Chennai,Desserts,1518,1000,2,Yes,No,3.8
+100693,Jaipur,Mexican,2275,400,1,No,Yes,3.0
+100694,Jaipur,Italian,1063,500,1,No,No,2.6
+100695,New Delhi,Chinese,2337,600,1,No,No,2.6
+100696,Noida,Mexican,925,1200,2,Yes,No,3.2
+100697,Chennai,Fast Food,320,500,1,No,No,2.5
+100698,Pune,Chinese,1044,600,1,Yes,Yes,2.9
+100699,New Delhi,Italian,322,500,1,Yes,Yes,2.3
+100700,New Delhi,Street Food,296,1500,3,No,No,3.7
+100701,Pune,South Indian,2203,300,1,No,No,2.1
+100702,Hyderabad,Chinese,1987,400,1,Yes,Yes,2.6
+100703,Gurgaon,Mexican,553,400,1,Yes,No,2.7
+100704,Gurgaon,Chinese,2094,2000,4,No,No,4.2
+100705,Gurgaon,Street Food,173,2500,4,No,Yes,3.4
+100706,Pune,Desserts,711,800,2,Yes,Yes,2.7
+100707,New Delhi,Street Food,1765,300,1,No,No,2.3
+100708,Pune,Street Food,760,1500,3,Yes,No,3.9
+100709,Bengaluru,South Indian,1826,800,2,Yes,No,1.7
+100710,Bengaluru,South Indian,2185,2000,4,No,No,3.0
+100711,Hyderabad,Italian,166,500,1,No,No,3.7
+100712,Pune,Fast Food,60,2500,4,Yes,No,3.9
+100713,Chennai,Desserts,2350,1500,3,Yes,No,2.8
+100714,Chennai,Continental,1301,400,1,Yes,No,2.7
+100715,Jaipur,Mexican,1266,1200,2,No,No,2.9
+100716,Chennai,Desserts,1159,500,1,Yes,No,3.1
+100717,Pune,Mexican,1084,500,1,Yes,No,3.5
+100718,Bengaluru,Italian,1725,400,1,No,No,2.7
+100719,Noida,Fast Food,1449,1200,2,Yes,No,2.8
+100720,Pune,Cafe,409,400,1,Yes,No,3.0
+100721,Gurgaon,North Indian,1566,1200,2,Yes,No,2.7
+100722,Jaipur,Continental,1671,1000,2,No,No,2.4
+100723,Kolkata,Mexican,284,1500,3,Yes,No,2.5
+100724,Gurgaon,Continental,942,2500,4,Yes,No,3.0
+100725,Chennai,Cafe,1976,200,1,Yes,No,2.2
+100726,Gurgaon,Continental,1547,2500,4,No,No,3.0
+100727,Chennai,Street Food,341,300,1,No,No,2.7
+100728,New Delhi,Cafe,101,800,2,Yes,Yes,2.5
+100729,Bengaluru,Fast Food,1453,500,1,Yes,No,1.4
+100730,Hyderabad,Chinese,1154,1200,2,No,No,2.5
+100731,Chennai,Continental,2402,1200,2,Yes,No,2.8
+100732,Bengaluru,Street Food,1306,2000,4,Yes,No,3.2
+100733,Jaipur,Mexican,2328,600,1,Yes,No,3.4
+100734,Chennai,Desserts,536,2500,4,Yes,No,3.4
+100735,Noida,Desserts,1118,500,1,Yes,Yes,3.1
+100736,Hyderabad,Continental,349,400,1,Yes,No,2.7
+100737,Chennai,Cafe,1435,600,1,Yes,Yes,2.8
+100738,Mumbai,North Indian,471,800,2,Yes,No,2.5
+100739,Chennai,North Indian,1231,1200,2,No,No,2.9
+100740,Kolkata,South Indian,861,2000,4,Yes,No,3.2
+100741,Kolkata,Fast Food,465,400,1,Yes,Yes,2.8
+100742,Chennai,Continental,242,500,1,No,Yes,2.6
+100743,Hyderabad,Fast Food,1280,2500,4,Yes,No,3.2
+100744,Noida,North Indian,2368,600,1,No,No,3.0
+100745,Chennai,South Indian,497,400,1,Yes,Yes,2.9
+100746,Mumbai,Street Food,1013,2500,4,No,No,3.3
+100747,Pune,Street Food,562,600,1,Yes,Yes,2.9
+100748,Mumbai,Italian,2022,2500,4,Yes,No,3.6
+100749,Mumbai,Desserts,1037,2500,4,Yes,No,3.3
+100750,Gurgaon,Continental,2436,2000,4,Yes,Yes,3.6
+100751,Jaipur,Street Food,613,1000,2,Yes,Yes,2.8
+100752,Gurgaon,Desserts,202,1500,3,No,No,2.7
+100753,New Delhi,Mexican,1456,2500,4,No,No,2.8
+100754,Jaipur,Italian,1629,400,1,Yes,No,2.5
+100755,Pune,Mexican,2476,200,1,No,No,2.8
+100756,Bengaluru,Italian,2178,500,1,No,No,2.3
+100757,Chennai,Italian,2210,1200,2,No,Yes,4.1
+100758,Mumbai,Mexican,1585,1000,2,No,Yes,3.3
+100759,Gurgaon,Cafe,900,200,1,No,No,3.1
+100760,Chennai,Cafe,1073,1000,2,Yes,Yes,3.4
+100761,Gurgaon,Italian,335,300,1,No,No,3.3
+100762,Pune,Fast Food,1078,800,2,No,No,2.5
+100763,Jaipur,North Indian,911,1000,2,Yes,Yes,2.0
+100764,Jaipur,Mexican,90,1200,2,Yes,Yes,2.9
+100765,Mumbai,Cafe,511,600,1,Yes,Yes,3.0
+100766,Chennai,Street Food,1336,600,1,No,No,2.7
+100767,Hyderabad,Cafe,923,1200,2,Yes,No,3.1
+100768,Bengaluru,Fast Food,2483,1500,3,No,No,3.7
+100769,Gurgaon,North Indian,1196,1500,3,No,No,3.3
+100770,Mumbai,Chinese,2396,500,1,No,No,2.9
+100771,Hyderabad,Italian,1652,600,1,Yes,No,2.3
+100772,Jaipur,Italian,101,500,1,No,No,2.1
+100773,New Delhi,Italian,509,800,2,No,No,3.5
+100774,Chennai,Italian,1764,300,1,Yes,No,2.7
+100775,Kolkata,Continental,1363,600,1,No,No,2.4
+100776,Jaipur,Chinese,755,400,1,Yes,No,2.4
+100777,Bengaluru,Italian,1305,800,2,No,No,2.5
+100778,Gurgaon,Chinese,2257,2000,4,Yes,Yes,3.3
+100779,Noida,Italian,972,2500,4,Yes,No,3.1
+100780,Kolkata,Mexican,113,600,1,Yes,No,2.1
+100781,Kolkata,North Indian,778,200,1,Yes,Yes,2.6
+100782,Hyderabad,Italian,2339,400,1,Yes,No,2.4
+100783,Gurgaon,North Indian,1904,300,1,No,No,3.0
+100784,Gurgaon,Street Food,2093,1500,3,Yes,Yes,3.4
+100785,Bengaluru,Continental,2279,2500,4,Yes,No,3.7
+100786,Pune,South Indian,294,1000,2,No,No,2.5
+100787,New Delhi,Chinese,707,300,1,No,No,2.5
+100788,Hyderabad,North Indian,150,200,1,Yes,Yes,2.8
+100789,Pune,Fast Food,12,2500,4,No,No,3.8
+100790,New Delhi,Continental,2086,500,1,Yes,No,2.7
+100791,New Delhi,Cafe,2342,300,1,No,Yes,3.1
+100792,Bengaluru,Desserts,390,300,1,Yes,No,2.6
+100793,Chennai,Italian,1805,400,1,No,Yes,3.0
+100794,Kolkata,South Indian,1337,1200,2,No,Yes,2.8
+100795,Bengaluru,Fast Food,173,2000,4,No,No,2.6
+100796,Noida,South Indian,2289,500,1,Yes,No,2.8
+100797,Jaipur,Street Food,2178,1200,2,No,No,3.2
+100798,Bengaluru,Chinese,1419,200,1,Yes,No,2.9
+100799,Mumbai,Fast Food,1770,200,1,No,No,2.7
+100800,Bengaluru,Cafe,993,200,1,No,Yes,2.4
+100801,New Delhi,North Indian,1982,2500,4,No,Yes,3.3
+100802,Mumbai,Fast Food,1113,1000,2,Yes,Yes,3.3
+100803,Pune,Fast Food,2472,1500,3,Yes,No,3.4
+100804,Jaipur,South Indian,158,200,1,No,Yes,2.3
+100805,Chennai,Chinese,431,200,1,Yes,Yes,3.2
+100806,Chennai,North Indian,2421,2000,4,Yes,Yes,3.2
+100807,Pune,North Indian,722,300,1,Yes,No,2.4
+100808,Gurgaon,Fast Food,777,300,1,No,No,3.2
+100809,Mumbai,North Indian,1978,800,2,Yes,No,3.3
+100810,Jaipur,Street Food,474,1000,2,Yes,No,2.8
+100811,New Delhi,South Indian,1284,400,1,Yes,No,2.8
+100812,Kolkata,Mexican,715,600,1,No,Yes,2.8
+100813,Hyderabad,Mexican,495,1200,2,No,No,1.8
+100814,Noida,Fast Food,2410,600,1,Yes,Yes,2.4
+100815,Chennai,Desserts,500,600,1,Yes,No,2.7
+100816,Kolkata,Chinese,236,200,1,Yes,No,2.5
+100817,New Delhi,South Indian,1685,600,1,Yes,No,2.8
+100818,Gurgaon,South Indian,2168,1500,3,No,Yes,3.7
+100819,Hyderabad,Chinese,319,1000,2,Yes,No,2.8
+100820,Jaipur,South Indian,1769,2000,4,No,No,2.9
+100821,New Delhi,Italian,1352,300,1,Yes,No,2.8
+100822,Hyderabad,Continental,2075,200,1,No,No,2.4
+100823,Gurgaon,Italian,318,1000,2,Yes,No,2.9
+100824,Hyderabad,Desserts,2439,300,1,No,Yes,2.5
+100825,Hyderabad,Continental,1548,1000,2,No,No,3.8
+100826,New Delhi,Street Food,2105,2000,4,No,No,2.4
+100827,Hyderabad,Chinese,905,500,1,Yes,Yes,2.6
+100828,Kolkata,Street Food,2358,1000,2,Yes,No,3.0
+100829,Kolkata,Mexican,1566,1200,2,No,No,2.6
+100830,New Delhi,Street Food,318,300,1,No,No,2.9
+100831,Noida,Italian,2307,2000,4,Yes,No,3.8
+100832,Noida,Street Food,1989,400,1,Yes,No,2.7
+100833,Bengaluru,Cafe,751,1500,3,Yes,No,3.1
+100834,Gurgaon,North Indian,1364,1200,2,No,No,2.9
+100835,Kolkata,Fast Food,970,300,1,No,No,2.5
+100836,Chennai,Chinese,1359,1200,2,No,No,2.9
+100837,Kolkata,Street Food,2413,400,1,No,No,2.5
+100838,Gurgaon,Italian,2247,1000,2,Yes,Yes,3.1
+100839,New Delhi,South Indian,539,2500,4,Yes,No,3.9
+100840,Jaipur,Cafe,2429,2500,4,Yes,No,3.1
+100841,Noida,Fast Food,1095,2000,4,No,No,2.9
+100842,Hyderabad,North Indian,1762,800,2,Yes,No,2.2
+100843,Jaipur,Desserts,1910,1000,2,Yes,No,3.3
+100844,New Delhi,Desserts,1207,500,1,Yes,No,2.8
+100845,New Delhi,Continental,1142,2500,4,Yes,No,3.8
+100846,New Delhi,Mexican,1141,800,2,No,No,2.2
+100847,Gurgaon,Fast Food,2156,1500,3,Yes,No,4.0
+100848,New Delhi,Cafe,966,500,1,Yes,No,2.4
+100849,Kolkata,Cafe,700,1500,3,No,Yes,3.3
+100850,Hyderabad,Chinese,904,400,1,Yes,No,3.0
+100851,Jaipur,North Indian,488,1500,3,Yes,No,2.8
+100852,Kolkata,South Indian,979,200,1,Yes,Yes,2.5
+100853,Jaipur,Fast Food,286,300,1,No,No,2.6
+100854,Noida,Chinese,225,500,1,Yes,No,3.9
+100855,Noida,Chinese,1809,800,2,No,No,2.9
+100856,Kolkata,Desserts,194,1200,2,No,Yes,3.7
+100857,Noida,Italian,1420,500,1,No,No,3.1
+100858,New Delhi,Cafe,1949,200,1,Yes,No,2.8
+100859,Hyderabad,Cafe,1811,500,1,No,No,2.2
+100860,Kolkata,Continental,1115,600,1,Yes,Yes,3.2
+100861,Jaipur,Continental,484,800,2,Yes,No,2.3
+100862,Jaipur,South Indian,2326,1200,2,Yes,Yes,3.8
+100863,Gurgaon,Desserts,2088,400,1,Yes,No,2.8
+100864,Chennai,Italian,1530,1000,2,Yes,No,1.8
+100865,Kolkata,Desserts,217,1000,2,Yes,No,2.8
+100866,Hyderabad,Fast Food,88,1500,3,Yes,No,3.5
+100867,Kolkata,Chinese,788,800,2,Yes,No,2.8
+100868,Kolkata,Continental,394,1500,3,Yes,Yes,3.6
+100869,Bengaluru,North Indian,2151,400,1,No,No,2.2
+100870,New Delhi,Continental,515,1200,2,Yes,No,2.5
+100871,Bengaluru,North Indian,707,200,1,No,No,2.5
+100872,Noida,South Indian,2439,300,1,Yes,Yes,2.7
+100873,Gurgaon,Mexican,2045,2000,4,Yes,Yes,3.4
+100874,Gurgaon,Street Food,547,800,2,Yes,Yes,3.5
+100875,Hyderabad,Fast Food,959,1000,2,Yes,No,2.6
+100876,Pune,Chinese,1289,1000,2,Yes,No,3.1
+100877,Pune,South Indian,1661,1200,2,Yes,Yes,3.1
+100878,Chennai,Desserts,2340,400,1,Yes,No,2.0
+100879,Pune,Continental,2177,300,1,Yes,Yes,2.2
+100880,Hyderabad,Chinese,2443,200,1,Yes,No,2.6
+100881,New Delhi,Italian,102,2000,4,Yes,No,4.3
+100882,Kolkata,South Indian,591,400,1,Yes,No,2.9
+100883,Bengaluru,Chinese,1407,1000,2,Yes,No,2.2
+100884,Gurgaon,Desserts,123,800,2,Yes,No,1.6
+100885,Kolkata,Mexican,888,300,1,Yes,No,2.9
+100886,Chennai,Chinese,384,600,1,Yes,Yes,2.8
+100887,New Delhi,Mexican,2332,200,1,Yes,No,3.1
+100888,Gurgaon,Fast Food,159,300,1,No,No,2.2
+100889,New Delhi,North Indian,371,300,1,Yes,No,2.8
+100890,Noida,Fast Food,488,2000,4,Yes,Yes,3.9
+100891,New Delhi,Chinese,372,1000,2,Yes,Yes,2.8
+100892,Chennai,South Indian,1421,2500,4,No,No,3.3
+100893,Pune,Desserts,911,600,1,No,No,2.6
+100894,Jaipur,Continental,2281,400,1,No,No,2.8
+100895,Chennai,Chinese,652,1000,2,No,No,2.8
+100896,Hyderabad,Desserts,1343,2500,4,Yes,No,4.0
+100897,Pune,Cafe,1650,800,2,No,No,2.6
+100898,New Delhi,Desserts,1565,200,1,Yes,No,2.1
+100899,New Delhi,Continental,1991,500,1,No,Yes,3.5
+100900,Hyderabad,Italian,505,2500,4,Yes,Yes,3.4
+100901,New Delhi,Cafe,1269,800,2,Yes,Yes,2.7
+100902,New Delhi,Cafe,2001,2500,4,No,No,3.5
+100903,Noida,Continental,2157,800,2,Yes,No,2.9
+100904,Kolkata,South Indian,1544,200,1,No,No,2.4
+100905,Bengaluru,Italian,1630,2000,4,Yes,No,3.5
+100906,Chennai,South Indian,2160,1500,3,No,No,3.1
+100907,Bengaluru,South Indian,1562,1200,2,No,No,3.0
+100908,Gurgaon,Chinese,2372,2500,4,Yes,No,2.6
+100909,Mumbai,North Indian,319,400,1,No,No,3.4
+100910,New Delhi,Street Food,870,2000,4,Yes,No,3.4
+100911,Chennai,North Indian,281,400,1,No,No,2.8
+100912,Gurgaon,Desserts,227,2500,4,Yes,No,3.0
+100913,Mumbai,North Indian,1180,400,1,Yes,No,2.5
+100914,Jaipur,Continental,565,1000,2,No,No,2.6
+100915,Pune,Italian,1018,1500,3,Yes,No,3.8
+100916,Bengaluru,Cafe,1095,200,1,Yes,No,2.4
+100917,Pune,South Indian,1552,200,1,Yes,No,2.9
+100918,Chennai,Fast Food,2364,2000,4,No,No,3.1
+100919,Noida,Fast Food,2123,200,1,Yes,No,2.4
+100920,Hyderabad,Cafe,946,1000,2,No,No,2.8
+100921,Kolkata,Italian,814,2500,4,No,Yes,4.1
+100922,Pune,Cafe,1927,1000,2,Yes,No,2.2
+100923,Bengaluru,Desserts,310,800,2,Yes,No,2.3
+100924,Gurgaon,Fast Food,1351,600,1,No,No,1.8
+100925,Noida,Italian,1058,1200,2,Yes,Yes,2.6
+100926,Jaipur,Chinese,457,1000,2,No,No,2.5
+100927,Pune,Italian,1541,800,2,No,No,2.1
+100928,Mumbai,Chinese,802,300,1,No,No,2.2
+100929,Bengaluru,Chinese,464,1200,2,Yes,Yes,2.2
+100930,Pune,Street Food,1633,1500,3,No,No,2.7
+100931,Pune,North Indian,436,1200,2,No,No,3.4
+100932,Hyderabad,Fast Food,1682,200,1,Yes,No,2.8
+100933,Noida,Desserts,406,1200,2,Yes,No,3.1
+100934,Hyderabad,Street Food,1087,1500,3,No,Yes,2.8
+100935,Bengaluru,Chinese,2020,400,1,No,No,1.9
+100936,Jaipur,Chinese,572,2000,4,Yes,Yes,3.1
+100937,Gurgaon,Italian,1919,800,2,Yes,No,2.9
+100938,Gurgaon,Cafe,1805,800,2,Yes,No,3.3
+100939,Bengaluru,Street Food,2256,1200,2,Yes,No,3.4
+100940,Pune,South Indian,423,800,2,Yes,Yes,3.2
+100941,Hyderabad,Chinese,1788,800,2,No,Yes,2.6
+100942,Bengaluru,South Indian,2341,500,1,Yes,Yes,2.8
+100943,Jaipur,Desserts,1907,2500,4,No,Yes,3.5
+100944,Bengaluru,North Indian,470,2500,4,Yes,No,3.5
+100945,Gurgaon,Italian,2055,300,1,Yes,Yes,3.6
+100946,Gurgaon,Chinese,269,1500,3,Yes,No,2.5
+100947,Jaipur,Chinese,1472,200,1,Yes,Yes,2.6
+100948,Gurgaon,Street Food,1244,600,1,No,Yes,3.2
+100949,Jaipur,North Indian,1328,2500,4,No,No,2.9
+100950,Noida,Italian,1299,300,1,No,No,2.3
+100951,New Delhi,Street Food,79,600,1,Yes,No,2.5
+100952,Mumbai,Mexican,1270,400,1,No,No,2.5
+100953,Hyderabad,North Indian,2341,1500,3,Yes,No,2.6
+100954,Bengaluru,Fast Food,1092,800,2,No,No,3.0
+100955,Chennai,Street Food,693,1000,2,Yes,Yes,3.3
+100956,Hyderabad,Fast Food,2487,2500,4,Yes,No,3.8
+100957,Bengaluru,Cafe,248,800,2,Yes,No,2.5
+100958,Hyderabad,Cafe,1216,1500,3,Yes,No,3.3
+100959,Jaipur,Mexican,1281,300,1,Yes,Yes,2.3
+100960,Bengaluru,Chinese,1195,400,1,No,No,2.4
+100961,Gurgaon,Desserts,2304,2500,4,No,No,4.4
+100962,Bengaluru,Street Food,1054,2000,4,No,Yes,3.5
+100963,Kolkata,Chinese,2433,1200,2,Yes,No,2.5
+100964,Noida,Desserts,167,600,1,No,Yes,2.8
+100965,Jaipur,Desserts,1835,400,1,Yes,No,2.1
+100966,Pune,Continental,1482,2000,4,Yes,Yes,3.1
+100967,Hyderabad,Italian,602,1500,3,Yes,No,2.8
+100968,Mumbai,Fast Food,570,400,1,Yes,Yes,2.6
+100969,Jaipur,Desserts,1799,1000,2,Yes,No,3.4
+100970,New Delhi,Chinese,1594,1000,2,Yes,Yes,3.3
+100971,Noida,Desserts,1528,800,2,Yes,No,3.1
+100972,Bengaluru,Street Food,128,2500,4,No,Yes,3.1
+100973,Bengaluru,Mexican,1495,300,1,Yes,No,2.4
+100974,Bengaluru,Italian,2453,400,1,No,Yes,2.8
+100975,Gurgaon,Cafe,44,300,1,Yes,Yes,2.4
+100976,Noida,North Indian,1173,1200,2,No,Yes,2.9
+100977,New Delhi,Street Food,1236,1200,2,No,Yes,3.2
+100978,Pune,Italian,2241,2500,4,No,Yes,3.5
+100979,Mumbai,North Indian,707,800,2,No,No,2.9
+100980,Pune,Continental,1189,300,1,No,No,3.2
+100981,Pune,Mexican,1793,600,1,No,Yes,2.6
+100982,Chennai,Mexican,151,200,1,Yes,No,3.1
+100983,Pune,North Indian,2002,1200,2,Yes,No,3.3
+100984,Hyderabad,Continental,2055,1200,2,No,Yes,2.4
+100985,Pune,Mexican,1799,2000,4,Yes,No,3.0
+100986,Hyderabad,Continental,1620,500,1,Yes,Yes,2.4
+100987,Hyderabad,Desserts,1869,500,1,Yes,Yes,2.4
+100988,Mumbai,South Indian,1954,200,1,Yes,No,2.6
+100989,Noida,South Indian,2258,600,1,Yes,No,3.0
+100990,Chennai,Street Food,1070,800,2,No,No,3.3
+100991,Mumbai,Cafe,1140,1500,3,No,No,3.2
+100992,Pune,Fast Food,1595,1500,3,No,No,2.9
+100993,Gurgaon,South Indian,483,300,1,Yes,Yes,1.8
+100994,Bengaluru,Mexican,2140,500,1,Yes,No,2.7
+100995,Pune,Continental,1926,800,2,Yes,Yes,3.0
+100996,Hyderabad,North Indian,1578,500,1,Yes,Yes,2.9
+100997,Pune,Cafe,754,200,1,No,Yes,3.5
+100998,Mumbai,Street Food,869,2000,4,Yes,No,4.0
+100999,Jaipur,South Indian,1088,1500,3,No,No,3.4
+101000,Pune,South Indian,1656,800,2,Yes,Yes,2.6
